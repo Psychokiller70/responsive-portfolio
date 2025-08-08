@@ -32,58 +32,6 @@ A fully responsive, clean, and modern **developer portfolio** website — perfec
 ## 📸 Screenshots
 <img src="light.png" alt="Desktop View" width="100%">
 
-## 📁 Folder Structure
-
-```
-responsive-portfolio/
-│
-├── assets/              # Images, icons, and banners
-│   ├── banner.png
-│   ├── screenshot1.png
-│
-├── index.html           # Main HTML file
-├── style.css            # Custom styling
-├── script.js            # JavaScript interactions (if any)
-└── README.md            # Project readme file
-```
-
----
-
-## 📦 Getting Started
-
-Follow these instructions to set up and run the project locally.
-
-### 🔧 Installation
-
-```bash
-git clone https://github.com/Psychokiller70/responsive-portfolio.git
-cd responsive-portfolio
-```
-
-### ▶️ Run
-
-Open `index.html` in your preferred browser.
-
----
-
-## ✏️ Customization Guide
-
-You can easily personalize this template:
-
-- **Profile Info**: Update your name, bio, and contact info in `index.html`
-- **Projects**: Add your own project details and links
-- **Colors/Fonts**: Modify `style.css` to change theme colors or font styles
-- **Images**: Replace default images in `assets/` folder
-
----
-
-## 🧾 License
-
-Distributed under the MIT License.  
-See `LICENSE` for more information.
-
----
-
 ## 🙏 Acknowledgements
 
 - Inspired by modern dev portfolio designs  
