@@ -30,9 +30,8 @@ A fully responsive, clean, and modern **developer portfolio** website — perfec
 ---
 
 ## 📸 Screenshots
-
-### 💻 Light Theme View  
-(screenshot-desktop.png)
+(light.png)
+(dark.png)
 
 ## 📁 Folder Structure
 
