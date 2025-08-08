@@ -2,8 +2,6 @@
 
 A fully responsive, clean, and modern **developer portfolio** website — perfect for showcasing your work, skills, and contact information. Built using **HTML, CSS, and JavaScript**, this template is beginner-friendly and easy to customize.
 
-![Banner](assets/banner.png) <!-- Replace with your custom banner -->
-
 ---
 
 ## 📍 Live Demo
@@ -33,12 +31,8 @@ A fully responsive, clean, and modern **developer portfolio** website — perfec
 
 ## 📸 Screenshots
 
-> Add your images in the `assets/` folder and update the links below.
-
-### 💻 Desktop View  
-![Desktop View](assets/screenshot-desktop.png)
-
----
+### 💻 Light Theme View  
+(screenshot-desktop.png)
 
 ## 📁 Folder Structure
 
@@ -85,29 +79,6 @@ You can easily personalize this template:
 
 ---
 
-## 🌍 Deployment
-
-You can deploy this site using:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
-
----
-
-## 🙌 Contributing
-
-Contributions are welcome!  
-If you'd like to improve this project, feel free to fork it and submit a pull request.
-
-1. Fork the Project  
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)  
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)  
-4. Push to the Branch (`git push origin feature/AmazingFeature`)  
-5. Open a Pull Request  
-
----
-
 ## 🧾 License
 
 Distributed under the MIT License.  
@@ -128,8 +99,8 @@ See `LICENSE` for more information.
 Feel free to connect:
 
 - GitHub: [@Psychokiller70](https://github.com/Psychokiller70)  
-- Email: `your.email@example.com`  
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- Email: `vanshkumar707878@gmail.com`  
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/vansh-kumar-542bb326a/)
 
 ---
 
