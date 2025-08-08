@@ -30,8 +30,7 @@ A fully responsive, clean, and modern **developer portfolio** website — perfec
 ---
 
 ## 📸 Screenshots
-(light.png)
-(dark.png)
+<img src="light.png" alt="Desktop View" width="100%">
 
 ## 📁 Folder Structure
 
