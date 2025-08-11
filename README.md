@@ -46,7 +46,7 @@ Feel free to connect:
 
 - GitHub: [@Psychokiller70](https://github.com/Psychokiller70)  
 - Email: `vanshkumar707878@gmail.com`  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/vansh-kumar-542bb326a/)
+- LinkedIn: [Vansh](https://www.linkedin.com/in/vansh-kumar-542bb326a/)
 
 ---
 
